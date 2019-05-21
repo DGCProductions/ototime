@@ -1,7 +1,7 @@
 # **OtoTime: The 3D Third-Person Parkour!**
 
 ## **Versions**
-Current Version: N/A
+Current Version: [v1.0](https://github.com/DGCProductions/ototime/releases/tag/v1.0)
 
 Current BETA: N/A
 
