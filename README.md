@@ -5,7 +5,7 @@ Current Version: [v1.0](https://github.com/DGCProductions/ototime/releases/tag/v
 
 Current BETA: N/A
 
-Upcoming Version: TBD
+Upcoming Version: N/A
 
 [See all versions](https://github.com/DGCProductions/ototime/releases)
 
